@@ -1,76 +1,54 @@
 [
     {
         "id": 1,
-        "cover": "https://placeimg.com/847/658/any",
+        "cover": "https://iili.io/JWNGQh7.png",
         "title": "Body sign through film physical.",
         "author": "Denise Larson",
-        "author_img": "https://placeimg.com/556/515/any",
+        "author_img": "https://iili.io/JWNWhdb.png",
         "posted_date": "2023-10-26",
-        "reading_time": "4 min",
+        "reading_time": 4,
         "hashtags": [
-            "#view",
             "#stuff",
-            "#course",
-            "#they"
+            "#course"
         ]
     },
     {
         "id": 2,
-        "cover": "https://placekitten.com/315/585",
+        "cover": "https://iili.io/JWNMXn9.jpg",
         "title": "Answer game tell something.",
         "author": "Juan Price",
-        "author_img": "https://www.lorempixel.com/564/882",
+        "author_img": "https://iili.io/JWNWWru.jpg",
         "posted_date": "2023-12-27",
-        "reading_time": "10 min",
+        "reading_time": 10,
         "hashtags": [
             "#task",
-            "#class",
-            "#clearly",
-            "#get"
+            "#class"
         ]
     },
     {
         "id": 3,
-        "cover": "https://placeimg.com/862/852/any",
+        "cover": "https://iili.io/JWNMDwN.png",
         "title": "Cost customer recent apply class behavior.",
         "author": "John Bauer",
-        "author_img": "https://placekitten.com/509/468",
+        "author_img": "https://iili.io/JWNWj7j.jpg",
         "posted_date": "2023-09-09",
-        "reading_time": "11 min",
+        "reading_time": 11,
         "hashtags": [
             "#your",
-            "#American",
-            "#cover",
-            "#base"
+            "#American"
         ]
     },
     {
         "id": 4,
-        "cover": "https://www.lorempixel.com/997/399",
+        "cover": "https://iili.io/JWNMyMX.jpg",
         "title": "Notice see appear center.",
         "author": "James Phillips",
-        "author_img": "https://dummyimage.com/248x365",
+        "author_img": "https://iili.io/JWNWeIV.jpg",
         "posted_date": "2023-10-01",
-        "reading_time": "5 min",
+        "reading_time": 5,
         "hashtags": [
             "#four",
-            "#old",
-            "#information",
-            "#page",
-            "#every"
-        ]
-    },
-    {
-        "id": 5,
-        "cover": "https://www.lorempixel.com/883/952",
-        "title": "Usually staff spring start method month.",
-        "author": "Cody Fields",
-        "author_img": "https://dummyimage.com/967x39",
-        "posted_date": "2023-05-27",
-        "reading_time": "13 min",
-        "hashtags": [
-            "#play",
-            "#hear"
+            "#old"
         ]
     }
 ]
