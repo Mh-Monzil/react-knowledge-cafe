@@ -1,0 +1,76 @@
+[
+    {
+        "id": 1,
+        "cover": "https://placeimg.com/847/658/any",
+        "title": "Body sign through film physical.",
+        "author": "Denise Larson",
+        "author_img": "https://placeimg.com/556/515/any",
+        "posted_date": "2023-10-26",
+        "reading_time": "4 min",
+        "hashtags": [
+            "#view",
+            "#stuff",
+            "#course",
+            "#they"
+        ]
+    },
+    {
+        "id": 2,
+        "cover": "https://placekitten.com/315/585",
+        "title": "Answer game tell something.",
+        "author": "Juan Price",
+        "author_img": "https://www.lorempixel.com/564/882",
+        "posted_date": "2023-12-27",
+        "reading_time": "10 min",
+        "hashtags": [
+            "#task",
+            "#class",
+            "#clearly",
+            "#get"
+        ]
+    },
+    {
+        "id": 3,
+        "cover": "https://placeimg.com/862/852/any",
+        "title": "Cost customer recent apply class behavior.",
+        "author": "John Bauer",
+        "author_img": "https://placekitten.com/509/468",
+        "posted_date": "2023-09-09",
+        "reading_time": "11 min",
+        "hashtags": [
+            "#your",
+            "#American",
+            "#cover",
+            "#base"
+        ]
+    },
+    {
+        "id": 4,
+        "cover": "https://www.lorempixel.com/997/399",
+        "title": "Notice see appear center.",
+        "author": "James Phillips",
+        "author_img": "https://dummyimage.com/248x365",
+        "posted_date": "2023-10-01",
+        "reading_time": "5 min",
+        "hashtags": [
+            "#four",
+            "#old",
+            "#information",
+            "#page",
+            "#every"
+        ]
+    },
+    {
+        "id": 5,
+        "cover": "https://www.lorempixel.com/883/952",
+        "title": "Usually staff spring start method month.",
+        "author": "Cody Fields",
+        "author_img": "https://dummyimage.com/967x39",
+        "posted_date": "2023-05-27",
+        "reading_time": "13 min",
+        "hashtags": [
+            "#play",
+            "#hear"
+        ]
+    }
+]
