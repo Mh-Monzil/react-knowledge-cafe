@@ -4,7 +4,7 @@ import { BiSolidBookmarks } from "react-icons/bi";
 
 const Blog = ({blog, handleAddToBookmark, handleMarkAsRead}) => {
     // console.log(blog);
-    const {author, author_img, cover, hashtags, posted_date, reading_time, title} = blog;
+    const {id, author, author_img, cover, hashtags, posted_date, reading_time, title} = blog;
     return (
         <div className='border-t-[1px] border-gray-300 pt-7 '>
             <img className='w-full rounded-lg ' src={cover} alt="" />
@@ -31,7 +31,7 @@ const Blog = ({blog, handleAddToBookmark, handleMarkAsRead}) => {
                         hashtags.map((hash, idx) => <span key={idx} className='text-xl font-medium text-gray-500'>{hash}</span>)
                     }
                 </div>
-                <button onClick={() => handleMarkAsRead(reading_time)}  className='text-xl text-purple-600 font-semibold my-4 underline'>Mark as read</button>
+                <button onClick={() => handleMarkAsRead(id, reading_time)}  className='text-xl text-purple-600 font-semibold my-4 underline'>Mark as read</button>
             </div>
         </div>
     );
